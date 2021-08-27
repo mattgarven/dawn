@@ -86,9 +86,8 @@
         },
         "1825e725-01d9-4eeb-8881-a0bb586b4f9b": {
           "type": "shopify:\/\/apps\/okendo-reviews-matt-dev\/blocks\/reviews-widget\/83eb7989-fec0-4810-b6bc-8aa22807a20d",
-          "disabled": true,
           "settings": {
-            "widget_type": "combined_widget"
+            "widget_type": "reviews_widget"
           }
         }
       },

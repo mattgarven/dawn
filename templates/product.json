@@ -59,13 +59,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "98beb079-959f-40c0-8759-32b63410a040": {
-          "type": "shopify:\/\/apps\/okendo-reviews-matt-dev\/blocks\/reviews-widget\/83eb7989-fec0-4810-b6bc-8aa22807a20d",
-          "disabled": true,
-          "settings": {
-            "widget_type": "reviews_widget"
-          }
         }
       },
       "block_order": [
@@ -78,8 +71,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "98beb079-959f-40c0-8759-32b63410a040"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,

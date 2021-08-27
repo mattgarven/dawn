@@ -71,6 +71,35 @@
         "full_width": true
       }
     },
+    "1630051508440e7338": {
+      "type": "apps",
+      "blocks": {
+        "abd94b1c-5e8a-4753-be94-39b07e38d654": {
+          "type": "shopify:\/\/apps\/okendo-reviews-matt-dev\/blocks\/reviews-carousel\/83eb7989-fec0-4810-b6bc-8aa22807a20d",
+          "settings": {
+            "heading": "",
+            "link": "",
+            "is_autoplay_enabled": false,
+            "featured_product": "",
+            "featured_collection": ""
+          }
+        },
+        "1825e725-01d9-4eeb-8881-a0bb586b4f9b": {
+          "type": "shopify:\/\/apps\/okendo-reviews-matt-dev\/blocks\/reviews-widget\/83eb7989-fec0-4810-b6bc-8aa22807a20d",
+          "disabled": true,
+          "settings": {
+            "widget_type": "combined_widget"
+          }
+        }
+      },
+      "block_order": [
+        "abd94b1c-5e8a-4753-be94-39b07e38d654",
+        "1825e725-01d9-4eeb-8881-a0bb586b4f9b"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -176,36 +205,15 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "1630051508440e7338": {
-      "type": "apps",
-      "blocks": {
-        "abd94b1c-5e8a-4753-be94-39b07e38d654": {
-          "type": "shopify:\/\/apps\/okendo-reviews-matt-dev\/blocks\/reviews-carousel\/83eb7989-fec0-4810-b6bc-8aa22807a20d",
-          "settings": {
-            "heading": "",
-            "link": "",
-            "is_autoplay_enabled": false,
-            "featured_product": "",
-            "featured_collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "abd94b1c-5e8a-4753-be94-39b07e38d654"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
+    "1630051508440e7338",
     "featured_products",
     "collage",
     "video",
-    "multi_column",
-    "1630051508440e7338"
+    "multi_column"
   ]
 }
